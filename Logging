@@ -1,0 +1,3 @@
+To log or not to log when we can print?
+Although printing will be a much faster ad-hoc error handling, logging allows you to debug your code much more efficiently when the program is very very long! 
+Another benefit, is the ability to trace back and see what part of your program/app you had an issue. 
