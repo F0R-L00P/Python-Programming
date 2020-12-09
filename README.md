@@ -2,7 +2,7 @@
 From Intern to Director, these are common Python Programming skills that everyone will benefit from!
 
 
-Always remember coding best practices. Quality code boils down to:
+### Always remember coding best practices. Quality code boils down to:
 
 1. Write Short Units of Code - Short units are easier to understand.
 2. Write Simple Units of Code - Simple units are easier to test.
