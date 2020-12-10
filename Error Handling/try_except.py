@@ -1,7 +1,7 @@
 # check for errors using try-except
-# search for the most speciffic errors and move to ore general errors
+# search for the most specific errors and move to ore general errors
 # Never use silent block, using pass statement as the error will be skipped
-# this can cuase further issues down the line when running longer code
+# this can cause further issues down the line when running longer code
 
 try:
     method1()
