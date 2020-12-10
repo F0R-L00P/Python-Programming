@@ -14,3 +14,10 @@ From Intern to Director, these are common Python Programming skills that everyon
 8. Keep Your Codebase Small - A small codebase requires less effort to maintain.
 9. Automate Tests - Automated tests are repeatable, and help to prevent bugs.
 10. Write Clean Code - “Leave the campground cleaner than you found it.”
+
+
+
+
+
+
+This is a personal repository for quick access to code snippets. Obtained examples and files can be found at talkpython repo by Michael Kennedy.
