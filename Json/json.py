@@ -36,4 +36,3 @@ for value in data['mounts']['collected']:
 for value in data['mounts']['collected']:
     if value['isFlying'] == True:
         pprint(value['name'])
-        
