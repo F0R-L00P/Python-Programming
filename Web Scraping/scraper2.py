@@ -36,17 +36,3 @@ for i in all_li:
     print(i.string)
 
 
-
-
-
-
-
-
-
-
-
-if __name__ == '__main__':
-    # assign page to variable site
-    site = pull_website()
-    # call the scrape function
-    scrape(site)
