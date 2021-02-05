@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" ?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:steam="http://www.steampowered.com" xmlns="http://purl.org/rss/1.0/">
+	<channel rdf:about="http://www.steampowered.com">
+		<title>Steam RSS News Feed</title> 
+		<link>http://www.steampowered.com/</link> 
+		<description>All Steam news, all the time!</description> 
+		<language>en</language> 
+				<pubDate>Tue, 26 Jan 2021 18:22:00 -0800</pubDate>
+		<generator>http://www.steampowered.com/</generator> 
+		<items>
+			<rdf:Seq>
+							<rdf:li rdf:resource="https://store.steampowered.com/news/80222/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79698/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79664/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79250/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79245/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79170/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79102/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79098/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/79086/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78971/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78763/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78720/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/75863/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78681/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78652/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78083/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/78401/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/77967/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/77616/" />
+							<rdf:li rdf:resource="https://store.steampowered.com/news/77492/" />
+						</rdf:Seq>
+		</items>
+	</channel>
+					<item rdf:about="https://store.steampowered.com/news/80222/">
+			<title><![CDATA[Dota 2 Update - January 26th, 2021]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/80222/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/80222/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 26 Jan 2021 18:22:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2021-01-26T18:22:00-0800</dc:date>
+						<content:encoded><![CDATA[- Fixed Psychic Headband destroying Homing Missile<br>- Fixed Flaming Lasso doing more damage than intended<br>- Fixed Level 25 Nature's Prophet talent not giving enough health<br>- Fixed Stone Remnant duration being higher than intended]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79698/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79698/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79698/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 08 Jan 2021 08:38:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2021-01-08T08:38:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added pl_pier to the list of maps for Casual matchmaking<br><li>Updated pl_pier<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added additional exits to forward spawns<br><li>Added windows to RED final spawn<br><li>Added small platform to the first beach<br><li>Improved general clipping<br><li>Players can no longer build on the tables in RED spawn</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79664/">
+			<title><![CDATA[Dota 2 Update - January 7th, 2021]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79664/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79664/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 07 Jan 2021 13:32:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2021-01-07T13:32:00-0800</dc:date>
+						<content:encoded><![CDATA[ABILITY DRAFT CHANGES:<br>=====<br>•	Fixed Greater Bash not working when drafted.<br>•	Fixed Io Spirits In/Out ability replacing other drafted abilities.  This should fix any 0 second cool-down exploits with other abilities.<br>•	Fixed Fire Spirits not working with Shard.<br>•	Fixed being unable to cast Reverse Timewalk with Timewalk Shard.<br>•	Fixed Holy Persuasion not converting ancient creeps with Scepter.<br>•	Fixed Grave Keeper's Cloak not working with Shard.<br>•	Fixed Epicenter not getting the Shard upgrade.<br>•	Fixed Fissure Shard upgrade not working.<br>•	Pulse Nova Scepter upgrade now grants Nihilism.<br>•	Mana Void Scepter upgrade now grants Blink Fragment.<br>•	Macropyre Shard upgrade now grants Liquid Ice.<br>•	Fixed Spirit Form not granting Recall and Blinding Light when active.<br>•	Fixed heroes getting Spirit Form if Illuminate was drafted and a Scepter was gained.<br>•	Fixed Ransack not getting the Geostrike upgrade with Shard.<br>•	Summon Familiars Scepter upgrade now grants Silent as the Grave.<br>•	Skeleton archers now have a minimum attack range of 500 even when Burning Army is cast by melee heroes.<br>•	Take Aim and the Shadow Realm active now provide bonus range to melee heroes.<br>•	Spirit Bear now displays on the left side of the screen as an owned unit as well as in the post-game scoreboard.  It's inventory will also be included in the net worth calculations of the owner hero.<br>•	Swashbuckle now splinters the attacks if Marksmanship is drafted and Scepter is active.<br>•	Poison Sting now only applies to the primary target when used with multi-target attacks. <br>•	Poison Sting no longer applies to attacks coming from any wards other than Plague Wards (Serpent Wards, Death Ward)<br>•	Fixed Infernal Blade applying damage and burn to buildings if you switch targets before the projectile lands.<br>•	Stifling Dagger now applies Infernal Blade if it is set to auto-cast.<br>•	Fixed Bash of the Deep triggering multiple times when ranged units had high attack speed.<br>•	Fixed Sacred Arrow launching from different positions depending on the hero.  Will now always launch from center point of the hero.<br>•	Fixed Acorn Shot missing bounce targets for melee heroes.<br>•	Fixed Echo Stomp doing double the damage if Astral Spirit was also drafted.  Note: Echo Stomp will still do both physical and magical damage values regardless of Astral Spirit being drafted.<br>•	Fixed some heroes getting stuck in looping animations (Ember Spirit, Magnus, Pangolier, Void Spirit).<br>•	Fixed giving Scepters to teammates (with Greevil's greed) removing your Shard granted ability.<br>•	Fixed attack abilities with a cost, spending that cost on multi-target attacks that don't proc modifiers (Split Shot, Flak Cannon).<br>•	Fixed Lil' Shredder stacks being consumed too quickly when using Medusa's Split Shot.<br>•	Fixed Bash of the Deep counting up from Marksmanship Splintered attacks.<br>•	Fixed Walrus Punch FX sometimes getting stuck on targets for the duration of the game.<br>•	Fixed Duel ending early if Berserker's Call was on the target.<br>•	Fixed Invoker & Hoodwink not getting access to the talents when they drafted their own spells.<br>•	Fixed talents missing from Wraith King, Omniknight & Beastmaster.<br>•	Fixed being unable to click anything for the first few seconds of the game.<br>•	Fixed Coaches crashing during drafting stage.<br>•	Fixed private lobbies crashing after the draft if there wasn't 10 players.<br>•	Fixed various inaccurate scepter/shard markers on draft screen as well as missing or wrong Aghanim's tooltips.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79250/">
+			<title><![CDATA[Dota 2 Update #2 - December 22nd, 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79250/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79250/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 22 Dec 2020 19:49:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-22T19:49:00-0800</dc:date>
+						<content:encoded><![CDATA[- Updated the overhead heal display values to show the amplified values rather than just the base values.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79245/">
+			<title><![CDATA[Dota 2 Update - December 22nd, 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79245/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79245/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 22 Dec 2020 14:45:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-22T14:45:00-0800</dc:date>
+						<content:encoded><![CDATA[- Diretide has ended. Diretide Point rewards will no longer be available.<br>- There will be opportunities to obtain The Hallowed Chest of the Diretide through playtime starting sometime in January.<br>- Fixed Orb of Venom slow stacking with Orb of Corrosion<br>- Fixed Cloak of Flames not doing less damage when carried by Illusions (now does 30)]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79170/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79170/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79170/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 21 Dec 2020 08:05:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-21T08:05:00-0800</dc:date>
+						<content:encoded><![CDATA[A new Steam client has been released and will be automatically downloaded.<br><br><strong>Library</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added a new game properties dialog, which replaces the old dialog for all Steam games.<br><li>Fixed displaying the coming soon date for a pre-loaded game<br></ul><br><strong>Steam Input</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added support for software calibration of the PS5 controller gyro<br><li>Fix issue with Dpad emulation in games using the joyGetPosEx Windows API, ex: Shiren the Wanderer<br><li>Fix Nintendo Switch origins in Steam Input API not reflecting the current Nintendo/Xbox layout setting<br></ul><br><strong>Steam Cloud</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fixed an issue causing files to swap between users under separate Windows user IDs, and also with some file stored in paths with embedded 64-bit SteamIDs<br></ul><br><strong>SteamNetworkingSockets</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> P2P connections now may attempt to negotiate a direct connection (punch NAT), if needed, to prevent connections from having very high latency. Added an option in the In-Game settings panel to control when your IP address is shared.<br></ul><br><strong>Server Browser</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Fix bug causing LAN server browser search to not show any servers<br></ul><br><strong>Linux</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li> Improved performance of processing incremental Vulkan shader database updates<br><li>Fixed several issues around skipped Vulkan shader processing continuing in the background after a game has started<br><li> Disabled shader processing on NVIDIA while driver issues are being looked into<br><li>Fixed long delay in UI response when hot-plugging a controller<br></ul><br><strong>macOS</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Disabled &ldquo;Enable GPU accelerated rendering in web views&rdquo; and &ldquo;Enable hardware video decoding&rdquo; settings on Apple M1 devices due to poor HW-accelerated performance currently through Rosetta.<br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79102/">
+			<title><![CDATA[Dota 2 Update - December 18th 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79102/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79102/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 18 Dec 2020 19:39:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-18T19:39:00-0800</dc:date>
+						<content:encoded><![CDATA[- Fixed an unintended inclusion of damage reduction on Wrath of Nature]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79098/">
+			<title><![CDATA[Dota 2 Update - December 18th, 2020]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79098/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79098/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 18 Dec 2020 17:38:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-18T17:38:00-0800</dc:date>
+						<content:encoded><![CDATA[Hoodwink<br>- Base Agility reduced by 4.<br>- Acorn Shot: Bonus damage reduced from 25/50/75/100 to 20/40/60/80.<br>- Acorn Shot: Bounce count reduced from 3/4/5/6 to 2/3/4/5<br>- Bushwhack: Cast range reduced from 1200 to 1000.<br>- Bushwhack: Radius reduced from 325 to 275.<br>- Level 20 talent changed from -5 Armor Corruption to -3 Armor Corruption.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/79086/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/79086/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/79086/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 18 Dec 2020 09:45:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-18T09:45:00-0800</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Fixed survival stats getting reported during demo playback<br>- Fixed response rules "campaign" criteria not recognizing DLC campaigns<br>- Enabled stats reporting for CS weapons<br>- Fixed some caption colors<br>- Updated Spanish translations<br>- Fixed talker typo<br>- Script Functions:<br>	• "ForceVersusStart" to force start the versus round.<br>	• "ForceSurvivalStart" to force start the survival round.<br>	• "ForceScavengeStart" to force start the scavenge round.<br>	• "QueueSpeak" (hEntity, szConcept, flDelay, szCriteria) to queue a speech concept<br>	• "RushVictim" (hVictim, flRange ) to force all common zombies in range to rush the victim. If hVictim isn't set, a random survivor will be chosen.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78971/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78971/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78971/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 16 Dec 2020 10:15:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-16T10:15:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed a client crash related to inspecting the same item twice<br><li>Fixed the Strange Count Transfer Tool not being able to transfer stats between Mad Milk and Mutated Milk<br><li>Fixed the equip_region for Pebbles the Penguin<br><li>Fixed not being able to use Taunt: The Table Tantrum Unusualifier on Taunt: The Boiling Point<br><li>Updated Taunt: The Pooped Deck to fix some sounds<br><li>Updated the localization files<br><li>Updated ctf_snowfall_final<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed an issue some players were having with candy cane textures<br><li>Updated the lighting</ul><li>Updated pl_wutville_event<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>The Smissmas trees are now properly colliding with mercs and ordinance<br><li>The larger first BLU spawn has been re-zoned for proper class changes and no more Engineer shenanigans<br><li>Wooden crates and furniture from the 2Fort division has had the minimum DirectX levels restored and should now be visible to mercs<br><li>Clipping of ledges and outcroppings around the Control Points has been installed to keep the merc's boots on the ground<br><li>The train tunnels will no longer allow for early escape</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78763/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78763/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78763/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Fri, 11 Dec 2020 13:41:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-11T13:41:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed the Spy's arms not cloaking<br><li>Updated Taunt: Spin-to-Win to fix an animation timing issue<br><li>Updated Taunt: The Pooped Deck with missing animations and sounds<br><li>Updated the equip_region for The Cammy Jammies<br><li>Updated the localization files<br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78720/">
+			<title><![CDATA[New DLC Available - ROMANCE OF THE THREE KINGDOMS XIV: Diplomacy and Strategy Expansion Pack, 10% off!]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78720/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78720/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 09 Dec 2020 17:04:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-09T17:04:00-0800</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/1427650/'>ROMANCE OF THE THREE KINGDOMS XIV: Diplomacy and Strategy Expansion Pack</a>, all new content for <a href='http://store.steampowered.com/app/872410/'>ROMANCE OF THE THREE KINGDOMS XIV</a> is Now Available on Steam and is 10% off!*<br><br>The Diplomacy and Strategy Expansion Pack for the series' latest title &quot;ROMANCE OF THE THREE KINGDOMS XIV&quot; is available at last!An all new world of strategy awaits you.Make a display of your strategies on an increasingly worldly stage!<br><br><br>*Offer ends December 16 at 10AM Pacific Time<br><br><a href="http://store.steampowered.com/app/1427650/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1427650/header.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/75863/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/75863/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/75863/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 09 Dec 2020 14:25:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-09T14:25:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed Strange war paint weapons not including the Strange attribute in their name<br><li>Fixed an issue with the Select Style and Adjust Unusual dialogs not displaying properly in the loadout panel at some resolutions<br><li>Added jingle sound to the Elf Care Provider<br><li>Added Taunt: The Table Tantrum to the list of items for the Unusualifier<br><li>Updated the Anodized Aloha war paint to fix an issue with the Back Scratcher<br><li>Updated Taunt: The Fist Bump to add a particle effect on success<br><li>Updated Taunt: The Boston Boarder to fix moving forward too early<br><li>Updated Taunt: Spin-to-Win to have the sign stay longer at the end of the taunt<br><li>Updated web page with community fixes from Liam Stone (boba)<br><li>Updated Spy invis materials with community fixes from Liam Stone (boba)<br><li>Updated/Added some tournament medals<br><li>Updated the localization files<br><li>Updated pd_snowville_event<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed ground texture incompatibility with mat_specular 0<br><li>Fixed clipping issues<br><li>Rewrote HUD file to not conflict with custom HUDs<br><li>Festivized the middle pine tree</ul><li>Updated pl_pier<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Expanded hallways to BLU spawn exits<br><li>Players can no longer build inside RED spawn<br><li>Fixed rock occasionally missing a texture<br><li>Fixed clipping not covering some roof overhangs</ul></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78681/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78681/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78681/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 08 Dec 2020 09:24:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-08T09:24:00-0800</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>Script:<br>- Global: "LocalTime" Fills out a table with the local time<br>- Player: "IsSuppressingFallingDamage" returns true if falling damage is currently suppressed for the player<br>- Run optional script "response_testbed_addon.nut" for all active addons<br>- Don't report addon file collisions for "sound.cache"<br>Other:<br>- Fixed talker typos<br>- Minor fixes to RocketDude and Taaaank! Mutations<br>- Enabled game stats reporting for DLC content<br>- Removed a legacy vpk loading path that allowed malformed vpks to crash the game.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78652/">
+			<title><![CDATA[Steam Client Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78652/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78652/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 07 Dec 2020 16:07:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-07T16:07:00-0800</dc:date>
+						<content:encoded><![CDATA[A new Steam client has been released and will be automatically downloaded.<br><br><strong>General</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Improved preallocation disk space performance when installing or updating content<br><li>Improved performance of Steam overlay, macOS and Linux web browsers<br><li>Fixed videos from youtube.com not starting automatically when browsed to<br></ul><br><strong>Downloads</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed downloading for developers on some networks using local content servers<br></ul><br><strong>Library</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed some game manuals opening inside of the Steam client instead of in the user's browser.<br><li>Fixed shelf dropdown rendering from displaying without a background.<br></ul><br><strong>Server Browser</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Changes were made to harden the server browser protocol.  Gameserver operators and anyone who writes custom clients that speak this protocol (A2S_INFO, S2C_CHALLENGE, etc) can read <a href="https://steamcommunity.com/discussions/forum/14/2974028351344359625/">this post</a>.<br></ul><br><strong>Steam Chat</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed Windows issue where voice hotkey may be erroneously triggered if unset<br><li>Fixed macOS issue preventing setting of voice hotkey when cleared<br></ul><br><strong>Steam Input</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Added support for PS5 Controllers to Steam Input including trackpad, gyro, lightbar, and rumble functionality<br><li>Added a directional swipe mode for use with trackpads and gyro<br><li>Improved support for games that use raw input for controllers<br><li>Fixed the Xbox Series X controller showing up as 2 separate controllers<br><li>Fixed controller input for some games using embedded Chrome<br></ul><br><strong>Windows</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed unintentional overlay activation in Apex Legends after returning to the game via alt + tab then pressing shift<br></ul><br><strong>Linux</strong><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Updated steam runtime to v0.20201203.1<br><li>Improved the filtering of available compatibility tools in the game properties dialog<br><li>Fixed launching of non-Steam games over Proton 5.13 (steam-runtime#287)<br><li>Fixed games not getting stopped via the 'Stop' button in the client UI (steam-for-linux#7435)<br><li>Added auto-migration of Steam libraries using the old 'SteamApps' directory casing to 'steamapps' when possible (Proton#4206). Users will be warned if the transition is needed but auto-migration fails.<br><li>Improved how host LD_LIBRARY_PATH settings are picked up and transformed for the Steam runtime (steam-runtime#274)<br><li>Improved host LD_LIBRARY_PATH support (steam-runtime#306)<br><li>Fixed blank UI windows appearing at startup on some systems (steam-for-linux#7450)<br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78083/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78083/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78083/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 03 Dec 2020 10:30:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-03T10:30:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><br><br><b>Happy Smissmas 2020!</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>All players who play TF2 during the event will receive a Stuffed Stocking as a gift! Stockings contain goodies for good little Mercenaries.<br><li>Featuring 4 new community maps: Pier, Snowfall, SnowVille, and Wutville<br><li>Added the Winter 2020 Cosmetic Case<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Contains 20 new community-contributed items<br><li>The Festivizer can be found as a bonus drop when opening the case</ul><li>Added the Winter 2020 War Paint Case<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Contains 13 new community-created War Paints that make-up the Winter 2020 Collection<br><li>Has a chance to give a taunt Unusualifier as a bonus item</ul><li>Added 8 new community-contributed taunts to the Mann Co. Store<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Taunt: The Pooped Deck<br><li>Taunt: Time Out Therapy<br><li>Taunt: Rocket Jockey<br><li>Taunt: The Boston Boarder<br><li>Taunt: Scorcher's Solo<br><li>Taunt: Texas Truckin'<br><li>Taunt: Spin-to-Win<br><li>Taunt: The Fist Bump</ul><li>Added 19 new community-created Unusual effects<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>12 new effects for Unusual hats<br><li>7 new effects for Unusual taunts</ul><li>All cosmetic and taunt cases will grant Smissmas 2020 Unusual effects instead of their normal Unusual effects during the event. This does not include crates.<br><li>Mann Co. Store winter sale!<br><li>Smissmas runs through January 7th, 2021<br></ul><b>General</b><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Fixed exploit where players could use "retry" in the console to reset the MvM timer and prevent the wave from starting<br><li>Updated item schema with community fixes from Andr&eacute;s S. (rabscootle)<br><li>Updated web page with community fixes from Liam Stone (boba)<br><li>Updated Spy invis materials with community fixes from Liam Stone (boba)<br><li>Updated materials with community fixes from Andr&eacute;s S. (rabscootle) and NeoDement to fix broken Jarate effect<br><li>Updated/Added some tournament medals<br><li>Updated the localization files<br></ul>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/78401/">
+			<title><![CDATA[Left 4 Dead 2 - Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/78401/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/78401/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Tue, 01 Dec 2020 11:46:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-12-01T11:46:00-0800</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>Script additions:<br>- Added "Inflictor" field to damage table for "AllowTakeDamage"<br>- Director function "WarpAllSurvivorsToCheckpoint"<br>- Director function "WarpAllSurvivorsToBattlefield"<br>- Director function "WarpAllSurvivorsToFinale"<br>Other:<br>- Updated RocketDude mutation to version 1.7.<br>- Fixed some typos in talker scripts.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/77967/">
+			<title><![CDATA[Left 4 Dead 2 Update]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/77967/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/77967/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Wed, 18 Nov 2020 19:06:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-11-18T19:06:00-0800</dc:date>
+						<content:encoded><![CDATA[An update has been released for Left 4 Dead 2.<br><br>- Honorary achievement for Gnome Chompski's upcoming journey into space on Rocket Lab's "Return To Sender" mission.]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/77616/">
+			<title><![CDATA[Now Available on Steam - Dreadlands, 20% off!]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/77616/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/77616/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Mon, 09 Nov 2020 06:12:41 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-11-09T06:12:41-0800</dc:date>
+						<content:encoded><![CDATA[<a href='http://store.steampowered.com/app/1054690/'>Dreadlands</a> is Now Available on Steam and is 20% off!*<br><br>Welcome to Dreadlands! A perilous landscape brimming with potential in the form of Glow. Command one of 3 unique factions in this turn-based tactical RPG and play through their campaigns, be it solo or Co-Op, or battle it out in PvP. So far no one has tamed the Dreadlands. Will you be the first?<br><br>*Offer ends November 16 at 10AM Pacific Time<br><a href="http://store.steampowered.com/app/1054690/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1054690/header.jpg" style=" float: left; margin-right: 12px; height: 181px; width: 467px;"></a>]]></content:encoded>
+					</item>
+					<item rdf:about="https://store.steampowered.com/news/77492/">
+			<title><![CDATA[Team Fortress 2 Update Released]]></title>
+			<link><![CDATA[https://store.steampowered.com/news/77492/]]></link>
+			<guid isPermaLink="true"><![CDATA[https://store.steampowered.com/news/77492/]]></guid>
+			<comments>https://steamcommunity.com//discussions/</comments>
+			<pubDate>Thu, 05 Nov 2020 12:11:00 -0800</pubDate>
+			<author>Valve</author>
+			<category>Valve news update</category>
+			<dc:subject>Valve news update</dc:subject>
+			<dc:creator>Valve</dc:creator>
+			<dc:date>2020-11-05T12:11:00-0800</dc:date>
+						<content:encoded><![CDATA[An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:<br/><br><ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Mannpower update<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Dominant players are now marked for death only when carrying a powerup<br><li>Shield charge meter passive refill rate reduced. Reduction is greater when carrying a powerup<br><li>Items or actions that add to the shield charge meter now add less when carrying a powerup <br><li>Carried buildings now deploy faster than default, but not instant <br><li>Decapitating swords no longer get the base melee damage boost other melee weapons get in Mannpower<br><li>Strength powerup no longer multiplies critical damage<br><li>Medic<ul style="padding-bottom: 0px; margin-bottom: 0px;" ><li>Powered up medics with unpowered up targets get a less reduced heal rate (50% -> 75% of default rate)<br><li>Reduced ubercharge gain on Ubersaw hit in Mannpower. 40% of regular rate if not powered up, 20% of regular rate if powered up</ul></ul></ul>]]></content:encoded>
+					</item>
+	</rdf:RDF>
