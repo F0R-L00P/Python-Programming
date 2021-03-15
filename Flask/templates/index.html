@@ -1,0 +1,22 @@
+{% extends 'base.html' %} <!-- have access to base blocks via jinja2 -->
+
+{% block head %} 
+<title>Home</title>
+{% endblock %}
+
+{% block body %} 
+<br>
+<h1>Home Page</h1>
+<br>
+<main role="main">
+    <div class="jumbotron">
+      <div class="col-sm-8 mx-auto">
+        <h1>Welcome!</h1>
+        <p>This is the first implementation of a Flask application - Hope you enjoy it as much as I did! to learn more about my previouse work, please visit <a href="https://github.com/F0R-L00P">here.</a></p>
+        
+        <a class="btn btn-primary" href= '/posts' role="button">Go To Posts</a>
+        </p>
+      </div>
+    </div>
+  </main>
+{% endblock %}
