@@ -1,0 +1,55 @@
+<!--This is the front end-->
+
+{% extends 'base.html' %} 
+
+{% block head %} 
+<title>Posts</title>
+{% endblock %}
+
+{% block body %} 
+<h1>All posts</h1>
+    
+    <hr>
+    <h2>Create New Blog Post</h2>
+    <form action='/posts' method='POST'>
+    
+        <label for="title">Title</label>  
+        <!-- <input type='text' name='title' id='title'> --put name and id in titlepart of out database-->
+        <!-- use bootstrap to design the bar -->
+        <input class="form-control" name="title" id='title' type="text" placeholder="Enter Title" aria-label="Enter Title">
+        <br>
+
+        <label for="author">Author</label> 
+        <!--<input type='test' name='author' id='author'>-->
+        <input class="form-control" name="author" id="author" type="text" placeholder="Enter Author Name" aria-label="Enter Author Name">
+        <br>    
+        
+        <!--Post: add in label vs. hard coding it-->
+        <label for="content">Post</label> 
+        <!--<input type='text' name='content' id='content'>-->
+        <textarea class="form-control"  id='content' rows="3" placeholder="Enter Content" aria-label="Enter Content"></textarea>
+        <br> <!--line break-->
+        
+        <input type='submit' value='post'>
+    </form>
+    </hr>
+
+    {% for post in posts %} <!--can loop over variable post in app function-->
+    <br>
+        <h4>{{ post.title }}</h4> <!--pulling out data title and content via the loop-->
+        
+        {% if post.author %} <!--add conditional to disply author if exists-->
+            <small> Written by: {{ post.author }} on {{date_posted}} </small>
+        {% else %}
+            <small> Written by: Unknown on {{date_posted}} </small> <!--else condition if not there print Unknown-->
+        {% endif %}
+            
+        <p>{{ post.content }} </p>
+        <!-- can add custom buttons provided by bootstrap cdn by adding the class-->
+        <!-- in this case dange and primary defines colors red and blue-->
+        <a class="btn btn-danger" href= '/posts/delete/{{ post.id }}'>Delete</a>    <!--pass post id in here to be able to delete-->
+        <a class="btn btn-primary" href= '/posts/edit/{{ post.id }}'>Edit</a>
+        <hr>
+    {% endfor %}
+    
+{% endblock %}
