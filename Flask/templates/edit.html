@@ -1,0 +1,31 @@
+<!--This is the front end-->
+
+{% extends 'base.html' %} 
+
+{% block head %} 
+<title>Edit Post</title>
+{% endblock %}
+
+{% block body %} 
+<h1>Editing posts</h1>
+    
+    <hr>
+    <h2>Edit Blog Post</h2>
+    <!--action is url we are re-submitting on-->
+    <form action='/posts/edit/<{{post.id}}>' method='POST'> 
+        <!--put name and id in titlepart of out database-->
+        <!--can put default argument in title under value, the title in this case-->
+        Title: 
+        <input type='text' name='title' id='title' value="{{post.title}}"> 
+        <br>
+        Author: 
+        <input type='test' name='author' id='author' value="{{post.author}}">
+        <br>
+        Post: 
+        <input type='text' name='content' id='content' value="{{post.content}}">
+        <br> <!--line break-->
+        <input type='submit' value='Save'>
+    </form>
+    </hr>
+    
+{% endblock %}
