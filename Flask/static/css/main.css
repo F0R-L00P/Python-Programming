@@ -1,0 +1,6 @@
+/*This is a static file will be used to change stylic features of the page*/
+/*this change is visible under the url inspect*/
+
+body{
+    font-family: Helvetica; 
+}
