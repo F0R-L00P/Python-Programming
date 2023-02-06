@@ -1,5 +1,5 @@
 import os
-os.chdir(r'C:\Users\behna\OneDrive\Desktop\Flask')
+os.chdir(r'C:\Users\Flask')
 
 import sqlite3
 from datetime import datetime
