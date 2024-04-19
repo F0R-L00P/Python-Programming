@@ -20,4 +20,4 @@ From Intern to Director, these are common Python Programming skills that everyon
 
 
 
-###### This is a personal repository for quick access to code snippets. Obtained examples and files can be found at talkpython repo by Michael Kennedy.
+###### talkpython to me!
